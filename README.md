@@ -75,6 +75,9 @@ Password: (anything or empty)
 <!-- After submitting, this script will execute every time the page is loaded -->
 
 
+
+```
+
 ![Screenshot 2025-06-05 153129](https://github.com/user-attachments/assets/1c4548e7-0393-4ebf-9167-a14dd0e294ed)
 
 ![Screenshot 2025-06-05 133346](https://github.com/user-attachments/assets/12721531-da6d-43d9-a4a2-d99204f58b40)
@@ -85,8 +88,6 @@ Password: (anything or empty)
 ![Screenshot 2025-06-05 141636](https://github.com/user-attachments/assets/96ca2e26-f07b-49dd-8969-d9cdc6873d97)
 
 
-
-```
 How it works:
 
    The SQL Injection in the login lets you bypass authentication and enter the editor panel.
